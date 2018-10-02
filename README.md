@@ -1,3 +1,4 @@
+[![Build Status](https://radio-vdf-is.visualstudio.com/RadioGIS/_apis/build/status/supahcool.pipelines-java)](https://radio-vdf-is.visualstudio.com/RadioGIS/_build/latest?definitionId=1)
 
 # Contributing
 
